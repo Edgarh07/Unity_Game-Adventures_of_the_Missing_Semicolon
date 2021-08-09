@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 262215340f3af8340ba07d17dd85d38f
+  - enabled: 1
+    path: Assets/Scenes/mapScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/FIGHTSCENE.unity
+    guid: 2bdbba59ceaf14aee85aabc47847d9fd
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 464f80096032947b5b25ec37b3a18629
+  - enabled: 1
+    path: Assets/Scenes/AllAttack.unity
+    guid: 4fd1e808dba4597459cdcb0f0da4f198
+  - enabled: 1
+    path: Assets/Scenes/homeHouse.unity
+    guid: cc07e6024e9512e4cb2655a8c48ba516
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: e20881a8cefa345439b20fc306525f95
+  m_configObjects: {}
